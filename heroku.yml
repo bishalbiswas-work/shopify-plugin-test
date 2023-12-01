@@ -1,0 +1,5 @@
+build:
+  docker:
+    web: Dockerfile
+  config:
+    SHOPIFY_API_KEY: fb0ee5d612939ec1b4bc1d9acf80ce55
